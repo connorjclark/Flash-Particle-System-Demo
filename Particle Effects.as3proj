@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<project version="2">
+﻿<?xml version="2.0" encoding="utf-3"?>
+<project version="2.01">
   <!-- Output SWF options -->
   <output>
     <movie outputType="Application" />
@@ -21,8 +21,8 @@
   <build>
     <option accessible="False" />
     <option allowSourcePathOverlap="False" />
-    <option benchmark="False" />
-    <option es="False" />
+    <option benchmark="True" />
+    <option es="True" />
     <option locale="" />
     <option loadConfig="" />
     <option optimize="True" />
